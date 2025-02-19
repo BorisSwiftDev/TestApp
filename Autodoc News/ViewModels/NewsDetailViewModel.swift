@@ -5,7 +5,6 @@
 //  Created by Boris Kuznetsov on 18.02.2025.
 //
 
-// ViewModels/NewsDetailViewModel.swift
 import UIKit
 import Combine
 
